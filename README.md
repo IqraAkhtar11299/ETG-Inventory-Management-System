@@ -16,6 +16,6 @@ b) If the purchased items are available in inventory, then Bill is generated.
 c) The detailes of the transactions are then stored in sales.json file with attributes like total transactions,transactio id,date,time, product name,total amount of purchase, customer name and customer mobile number.
 
 # Tools required:
-python - 3.7
-json
+1) python - 3.7
+2) json
 
